@@ -1,0 +1,6 @@
+{
+  "name": "MOJAHID VPN",
+  "description": "High-speed and secure VPN client supporting V2Ray (WS/TLS) and OpenVPN with target network carrier tweaks and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
